@@ -85,3 +85,4 @@ Check out our FAQ at [horizon.io/faq](https://horizon.io/faq/)
 ### How will Horizon be licensed?
 
 The Horizon server, client and cli are available under the MIT license
+ 
